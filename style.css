@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+
+    padding: 0;
+}
+
+
+
+
+.up{
+    display: flex;
+    justify-content: space-between;
+} 
+    .bg{
+        background-color: rgb(46, 48, 48);
+color: aliceblue;
+        position: sticky;
+        top: 0;
+    z-index: 22;
+    }   
+
+.nav{
+    display: flex;
+   
+
+padding: 20px;
+
+}
+.p1{
+    padding-right: 20px;
+
+
+
+}
+
+.nav2{
+    display: flex;
+justify-content: space-between;
+
+
+font-size: 200%;
+}
+
+.m1{
+    margin-left: 20px;
+}
+.chat{
+
+   
+    display: flex;
+}
+.center{
+    padding-bottom:10px;
+}
+.para{
+    font-size: 2em;
+}
+.emj{
+
+   
+    font-size:100px ;
+}
+.b2{
+    background-color: black;
+    color: aliceblue;
+}
